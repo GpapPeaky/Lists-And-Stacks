@@ -49,7 +49,6 @@ int uniqueUserId(int uuid){
 
 /*[______________________________________________________________________________________]*/
 
-
 /**
  * Intialises The Sentinel
 */
@@ -105,6 +104,7 @@ int register_user(int uid){
     return SUCCESS; 
    /*NON SORTED LIST METHOD*/
 }
+
 /**
  * @param uid User's Id To Be Removed
 */
